@@ -20,6 +20,7 @@ Contact with me via these platforms!
 ![](https://skillicons.dev/icons?i=js) 
 ![](https://skillicons.dev/icons?i=bootstrap)
 ![](https://skillicons.dev/icons?i=nodejs)
+![](https://skillicons.dev/icons?i=react)
 
 <p align=center>
   <div align=center>
