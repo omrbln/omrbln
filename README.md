@@ -26,6 +26,9 @@ Contact with me via these platforms!
 ![](https://skillicons.dev/icons?i=react)
 -->
 
+
+## 📊 GitHub Stats
+
 <p align=center>
   <div align=center>
     <a href="https://github.com/ecenurdogan/github-readme-stats" title="Go to Source">
@@ -39,7 +42,6 @@ Contact with me via these platforms!
  </p>
 
 
-## 📊 GitHub Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=omrbln&theme=dark)](https://git.io/streak-stats)
 <!--<img src="https://github-readme-stats.vercel.app/api?username=omrbln&count_private=true&show_icons=true&theme=tokyonight">-->
