@@ -45,7 +45,8 @@ Contact with me via these platforms!
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=omrbln&count_private=true&show_icons=true&theme=tokyonight">
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omrbln&hide=python&layout=compact&show_icons=true&theme=tokyonight">
 
-
+<p align="left">
 [![GitHub Streak](https://streak-stats.demolab.com?user=omrbln&theme=dark)](https://git.io/streak-stats)
+</p>
 <!--<img src="https://github-readme-stats.vercel.app/api?username=omrbln&count_private=true&show_icons=true&theme=tokyonight">-->
 
