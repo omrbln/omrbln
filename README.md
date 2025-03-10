@@ -17,7 +17,7 @@ Contact with me via these platforms!
 ## 🛠 Technologies & Tools 
 ![](https://skillicons.dev/icons?i=html) 
 ![](https://skillicons.dev/icons?i=css) 
-![](https://skillicons.dev/icons?i=csharp)
+![](https://skillicons.dev/icons?i=cs)
 
 <!--
 ![](https://skillicons.dev/icons?i=js) 
