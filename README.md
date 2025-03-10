@@ -17,6 +17,18 @@ Contact with me via these platforms!
 ## 🛠 Technologies & Tools 
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 
+<p align=center>
+  <div align=center>
+    <a href="https://github.com/ecenurdogan/github-readme-stats" title="Go to Source">
+      <img align="left" width=396 src="https://github-readme-stats.vercel.app/api?username=ecenurdogan&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    </a>
+    <a href="https://github.com/ecenurdogan/github-readme-stats">
+    <img align="rigt" width=400 height=160 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ecenurdogan&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+    </a>
+   </div>
+
+ </p>
+
 
 <!--
 <img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" /></img>
