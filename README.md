@@ -43,7 +43,7 @@ Contact with me via these platforms!
 
  <p align="center">
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=kubraterzi&count_private=true&show_icons=true&theme=tokyonight">
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=kubraterzi&count_private=true&show_icons=true&theme=tokyonight">
 </p>
   <p>
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kubraterzi&hide=python&layout=compact&show_icons=true&theme=tokyonight">
