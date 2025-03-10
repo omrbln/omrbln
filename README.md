@@ -18,9 +18,10 @@ Contact with me via these platforms!
 ![](https://skillicons.dev/icons?i=html) 
 ![](https://skillicons.dev/icons?i=css) 
 ![](https://skillicons.dev/icons?i=cs)
+![](https://skillicons.dev/icons?i=js) 
+
 
 <!--
-![](https://skillicons.dev/icons?i=js) 
 ![](https://skillicons.dev/icons?i=bootstrap)
 ![](https://skillicons.dev/icons?i=nodejs)
 ![](https://skillicons.dev/icons?i=react)
