@@ -29,7 +29,7 @@ Contact with me via these platforms!
 
 ## 📊 GitHub Stats
 
-<p align=center>
+<!--<p align=center>
   <div align=center>
     <a href="https://github.com/omrbln/github-readme-stats" title="Go to Source">
       <img align="left" width=396 src="https://github-readme-stats.vercel.app/api?username=omrbln&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
@@ -40,7 +40,7 @@ Contact with me via these platforms!
    </div>
 
  </p>
-
+-->
  <p align="center">
   <p>
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=omrbln&count_private=true&show_icons=true&theme=tokyonight">
