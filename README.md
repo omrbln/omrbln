@@ -52,7 +52,7 @@ Contact with me via these platforms!
 
 </p>
 
-<p align="left">
+<p align="center">
 <img src="https://streak-stats.demolab.com?user=omrbln&theme=dark">
 </p>
 <!--
