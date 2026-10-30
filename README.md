@@ -10,7 +10,7 @@ I'm Ömer! I am improving myself in javascript.
 
 Contact with me via these platforms! 
 
-  <a href="https://www.linkedin.com/in/omrbln/" target="_blank" rel="nofollow"><img alt="Selim's Linkdein" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/%C3%B6mer-bilen-75418a15a/" target="_blank" rel="nofollow"><img alt="Selim's Linkdein" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:omrblnn@gmail.com" target="_blank" rel="nofollow"><img alt="Selim's Mail Address" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
   
@@ -19,7 +19,7 @@ Contact with me via these platforms!
 ![](https://skillicons.dev/icons?i=css) 
 ![](https://skillicons.dev/icons?i=js)
 ![](https://skillicons.dev/icons?i=cs) 
-
+![](https://skillicons.dev/icons?i=py) 
 
 <!--
 ![](https://skillicons.dev/icons?i=bootstrap)
